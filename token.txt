@@ -1,0 +1,5 @@
+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
+
+git add .
+git commit -m "sua mensagem"
+git push
